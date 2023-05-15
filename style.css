@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f5f5f5;
+  }
+  
+  .clock {
+    display: flex;
+    font-family: Arial, sans-serif;
+    font-size: 72px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    text-shadow: 5px 5px 8px rgba(0, 0, 0, 0.5);
+  }
+  
+  .clock span {
+    display: inline-block;
+    padding: 20px;
+    background-color: #2196f3;
+    border-radius: 10px;
+    margin: 10 10px;
+  }
+  .h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+  }
+  
